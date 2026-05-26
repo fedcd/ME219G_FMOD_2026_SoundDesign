@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{52aabc1c-0dfb-4c2b-8293-d8179fbf3711}">
+	<object class="AudioFile" id="{e28f6f7d-2960-48ce-ab3f-3e732e835f5a}">
 		<property name="assetPath">
-			<value>New_Render_Reaper/Lazer/LazerSoundtest.wav</value>
+			<value>New_Render_Reaper/Fotsteg/Fotsteg_Jord1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1</value>
+			<value>0.71909297052154197</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>

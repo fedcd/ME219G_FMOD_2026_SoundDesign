@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a3336e58-85a6-47b1-bf11-7bd11b3f2c72}">
 		<property name="assetPath">
-			<value>New_Render_Reaper/LazerSound2.wav</value>
+			<value>New_Render_Reaper/Lazer/LazerSound2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
