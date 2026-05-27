@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{25764bdf-8601-4cbe-8167-04d30e5cc9ad}">
+	<object class="AudioFile" id="{81a86e73-2e78-4497-81c3-1fad7642a00f}">
 		<property name="assetPath">
-			<value>New_Render_Reaper/Improved_Lazer_Sound.wav</value>
+			<value>New_Render_Reaper/Lazer_SFX/Improved_Lazer_Sound.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
