@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9d039da9-0856-414f-a4ee-425f4bcb00e7}">
 		<property name="assetPath">
-			<value>New_Render_Reaper/Fotsteg/Fotsteg_Jord2.wav</value>
+			<value>New_Render_Reaper/Player_SFX/Player_Footstep_SFX/Fotsteg_Jord2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

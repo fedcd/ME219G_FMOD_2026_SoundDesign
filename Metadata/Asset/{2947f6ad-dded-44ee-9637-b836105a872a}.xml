@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="EncodableAsset" id="{a34451ef-21bc-49c3-8c8d-6cceb25c73c1}">
-		<property name="assetPath">
-			<value>New_Render_Reaper/Player_SFX/Player_Footstep_SFX/</value>
-		</property>
+	<object class="EncodableAsset" id="{2947f6ad-dded-44ee-9637-b836105a872a}">
+		<property name="assetPath" />
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
 		</relationship>
