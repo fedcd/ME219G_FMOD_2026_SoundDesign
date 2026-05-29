@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{118af8c3-7b1b-480b-834b-1e7d2aeb044f}">
+		<property name="assetPath">
+			<value>New_Render_Reaper/Surrondings_SFX/Door_Openingperhaps2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4414058956916098</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
