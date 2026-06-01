@@ -121,7 +121,7 @@
 			<value>3</value>
 		</property>
 		<property name="volume">
-			<value>-12.5</value>
+			<value>-18</value>
 		</property>
 		<property name="playlistMode">
 			<value>1</value>
@@ -166,11 +166,17 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{301b2cf7-1fb4-482f-afd0-f289fa4f5c47}">
+		<property name="volume">
+			<value>-7</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{d47129fa-c64c-4356-a186-8f2278009f17}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{11a53a90-ebbc-494f-9026-c8a2ec435626}">
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{888c83bb-8834-44f5-8410-dfa42a05de81}</destination>
 		</relationship>

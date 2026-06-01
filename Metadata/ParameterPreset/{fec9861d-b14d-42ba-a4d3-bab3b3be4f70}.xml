@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{6a44c9a9-6bff-416c-bc28-539295b11c22}">
+	<object class="ParameterPreset" id="{fec9861d-b14d-42ba-a4d3-bab3b3be4f70}">
 		<property name="name">
-			<value>Surface</value>
+			<value>End</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1245282f-64d2-49a5-a193-db803b82b2df}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{784e92e9-3082-40b4-b1dc-553fe2a95c4f}</destination>
+			<destination>{c584ac9d-4f2d-417d-b3f7-0ac7b5b10cbd}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{784e92e9-3082-40b4-b1dc-553fe2a95c4f}">
+	<object class="GameParameter" id="{c584ac9d-4f2d-417d-b3f7-0ac7b5b10cbd}">
 		<property name="parameterType">
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Grass</value>
-			<value>Rock</value>
-			<value>Metal</value>
+			<value>Looping</value>
+			<value>End Loop</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
