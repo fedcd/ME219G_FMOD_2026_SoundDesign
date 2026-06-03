@@ -238,9 +238,6 @@
 		<relationship name="endPoint">
 			<destination>{dafcf719-6f15-4d9c-8485-f755be00320a}</destination>
 		</relationship>
-		<relationship name="relatedModule">
-			<destination>{b7c4a3da-8277-4c42-8909-34fa4c8dccfc}</destination>
-		</relationship>
 	</object>
 	<object class="FadeCurve" id="{a3c90c14-2d72-47f5-b251-61c4dd213fbe}">
 		<relationship name="startPoint">
@@ -295,7 +292,7 @@
 	<object class="MixerBusFader" id="{66609226-6d19-4aaa-82fb-8d9714cd9402}" />
 	<object class="AutomationPoint" id="{d182bc89-9673-4e0b-ac93-b9a448b8dc9b}">
 		<property name="position">
-			<value>0.1082990045941807</value>
+			<value>0</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -339,7 +336,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-1.00000048</value>
+			<value>-0.336518139</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{8bfa2552-3027-4365-82ba-1295eff0b588}">
