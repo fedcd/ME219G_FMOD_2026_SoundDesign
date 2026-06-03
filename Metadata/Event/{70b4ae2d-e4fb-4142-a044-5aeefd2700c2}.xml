@@ -5,7 +5,7 @@
 			<value>Purple</value>
 		</property>
 		<property name="name">
-			<value>Door_Opening</value>
+			<value>SFX_Door_Opening</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
