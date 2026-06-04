@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{985b3ae5-7fac-4e1e-bdc9-518c79022c15}">
+		<property name="color">
+			<value>Cyan</value>
+		</property>
 		<property name="name">
 			<value>SFX_Boss_Footstep</value>
 		</property>
@@ -53,7 +56,7 @@
 			<destination>{d34415c7-bd45-409d-9641-20ce744c85d3}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{5adde0c2-c7f1-46f3-8703-839eff898a87}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{b9a08400-39b9-4165-8d89-28ed0572d480}" />
@@ -72,6 +75,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{298ee42a-64d9-4b7c-badf-0c8627fc0822}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{8050892b-f906-47e8-ae7d-2d1d27e4dea6}</destination>
 		</relationship>

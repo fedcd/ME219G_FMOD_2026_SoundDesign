@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{bccf650d-3bf3-4407-89cb-b3a41fb3ff8a}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
+		<property name="name">
+			<value>SFX_Game_Start</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{e7698729-1994-498e-8d98-c479c1fa8992}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{ba6a339c-b0b2-4df6-b258-a6da4362c348}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{40009f02-c67e-433c-a13f-6f40dcc6e9c4}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{e7698729-1994-498e-8d98-c479c1fa8992}">
+		<relationship name="effects">
+			<destination>{7be3f491-c56d-4ddc-8c38-df23df3b15a5}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{ba6a339c-b0b2-4df6-b258-a6da4362c348}" />
+	<object class="MixerBusFader" id="{7be3f491-c56d-4ddc-8c38-df23df3b15a5}" />
+</objects>
