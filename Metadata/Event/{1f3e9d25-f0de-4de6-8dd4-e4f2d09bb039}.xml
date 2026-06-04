@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1f3e9d25-f0de-4de6-8dd4-e4f2d09bb039}">
+		<property name="note">
+			<value>Ett simplet 2D one-shot  ljud som spelas när spelaren använder melee </value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

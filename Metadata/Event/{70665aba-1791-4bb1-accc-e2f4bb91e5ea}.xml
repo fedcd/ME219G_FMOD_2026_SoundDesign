@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{70665aba-1791-4bb1-accc-e2f4bb91e5ea}">
+		<property name="note">
+			<value>En labeled parameter som är döpt till "Surface" som följer denna logik: Gräs = 0, Rock = 1 och Metal = 2. Eftersom det finns följande material som man kan gå på, så är det bra att ha parametrar som följer någon form av ljud-logik. </value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

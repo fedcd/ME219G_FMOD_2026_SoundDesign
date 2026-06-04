@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dcdb822f-b4bd-4550-85ab-b98d3408f4a5}">
+		<property name="note">
+			<value>Ett simpelt one-shot ljud som spelas när spitters spottar på dig som spelare. </value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>
@@ -75,6 +78,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{b5ffff38-4228-4dd0-9577-5ae6c22c5fd2}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{59d491f8-e5a7-4559-b602-8d463a49dced}</destination>
 		</relationship>

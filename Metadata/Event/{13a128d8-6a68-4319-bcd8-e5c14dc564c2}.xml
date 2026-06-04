@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{13a128d8-6a68-4319-bcd8-e5c14dc564c2}">
+		<property name="note">
+			<value>Ett simplet 2D multi-instrument randomized event som väljer mellan 2 olika lazer-ljud som spelas när spelaren skjuter sitt vapen.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

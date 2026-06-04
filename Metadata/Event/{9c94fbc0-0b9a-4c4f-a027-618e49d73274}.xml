@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9c94fbc0-0b9a-4c4f-a027-618e49d73274}">
+		<property name="note">
+			<value>Ett simpelt one-shot ljud som triggas när spelaren klickar "Start"</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>

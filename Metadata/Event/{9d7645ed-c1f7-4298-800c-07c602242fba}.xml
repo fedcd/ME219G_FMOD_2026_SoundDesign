@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9d7645ed-c1f7-4298-800c-07c602242fba}">
+		<property name="note">
+			<value>Här har vi två indelningar. Det första är en Timeline, här befinner sig 3 indelade ljud. Det första är "Box-push" vilket är påbörjan av att man puttar lådan, sedan har vi "box_push-loop2" som är de ljud som vi vill loopa, allt utifrån hur länge spelaren puttar lådan. Den sista "Box push" är avsluts ljudet, då spelaren slutar putta lådan. Vi har en marker som drar sig från början till att spelaren slutar putta lådan. "To Marker A" följer en transition condition. Denna kondition är att om "End loop = true" så går ljudet direkt till "Marker A". Om inte, så följer timelinen logiken av att spela upp ljudet som vanligt, fast man fasnar i loop-regionen. För att "End loop = true" så måste spelaren ha slutat putta på lådan. Vi har som tidigare konstaterat att vi har en till indelning. Titeln på den är "End" och det är en "labeled" indelning. Det är pågrund av att vi har den labeled indelningen, som gör så att vi kan loopa ljudet medans lådan pushas och avsluta när den inte gör det. </value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

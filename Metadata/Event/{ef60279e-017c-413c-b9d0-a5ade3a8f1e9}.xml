@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ef60279e-017c-413c-b9d0-a5ade3a8f1e9}">
+		<property name="note">
+			<value>Ett labeled event, som heter "ShieldState" som spelas då bossen tar upp sin sköld och ner sin sköld. </value>
+		</property>
 		<property name="name">
 			<value>SFX_Boss_Shield</value>
 		</property>
@@ -86,7 +89,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{99f96b21-e8a9-4d1f-80a7-ffd8d357a555}">
 		<property name="volume">
-			<value>-2</value>
+			<value>-6.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{80b9d9c3-e812-4aba-8039-67050b75844d}</destination>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ab02e6b8-dcf1-4328-9204-7017e4a3c669}">
+		<property name="note">
+			<value>Ett 3D Oneshot ljud som spelas när bossen tar melee skada.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -76,7 +79,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{ecafcd7f-fbb3-4782-bc0e-2825b73b369e}">
 		<property name="volume">
-			<value>-9</value>
+			<value>-10.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{abc5575d-704d-441d-93ea-a8c1afdb0821}</destination>

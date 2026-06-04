@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{43fa6315-aaf5-4d4e-8f81-479242913174}">
+		<property name="note">
+			<value>Två av samma ljud, med olika pitch som befinner sig i en loop-region med AHDSR och en form av randomizer som spelar upp ljudet från olika punkter hela tiden. (3D event här också)</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

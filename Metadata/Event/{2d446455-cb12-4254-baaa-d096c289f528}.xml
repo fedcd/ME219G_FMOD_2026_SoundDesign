@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2d446455-cb12-4254-baaa-d096c289f528}">
+		<property name="note">
+			<value>Ett discrete ljud som är nämnd "SteamStage" som byter mellan två olika ljud. Det första ljudet som spelas är "Boss_Steam_Stage_1" och sedan spelas "Boss_Steam_Stage_2" där efter. </value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -89,7 +92,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{0a6b8978-e75d-4358-b67f-fdcb294b6c54}">
 		<property name="volume">
-			<value>-1</value>
+			<value>-3</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{1b683b5b-b8ee-478f-91fd-0c11646bc399}</destination>

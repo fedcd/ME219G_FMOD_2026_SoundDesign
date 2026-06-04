@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c6610b18-c7fb-4796-a78b-38ef6cb636c7}">
+		<property name="note">
+			<value>Det ljud sóm spelas när man är i en cave</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

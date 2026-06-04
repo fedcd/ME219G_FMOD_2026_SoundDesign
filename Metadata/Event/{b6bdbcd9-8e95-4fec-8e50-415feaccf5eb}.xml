@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b6bdbcd9-8e95-4fec-8e50-415feaccf5eb}">
+		<property name="note">
+			<value>Ett simplet 3D one-shot  ljud som spelas när spelaren eller lådan hamnar i aciden. </value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

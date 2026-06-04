@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{06b7ce01-5ed0-495a-812e-e0edf5ca4531}">
+		<property name="note">
+			<value>Ett 3D Oneshot ljud som spelas när bossen kastar en granat och den landar</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -75,6 +78,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{fc5d7240-b34c-47f3-bd18-0475962c157d}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{f363a84f-af47-413c-8721-699d4b4626c2}</destination>
 		</relationship>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bbdaaa84-7e09-42f8-8ef0-68abf5c9f8ce}">
+		<property name="note">
+			<value>Ett simplet 2D one-shot  ljud som spelas när man plockar upp en nyckel</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{36439a86-6359-4684-afdc-0df20063d004}">
+		<property name="note">
+			<value>Ett simplet 2D one-shot  ljud som spelas när spelaren landar.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

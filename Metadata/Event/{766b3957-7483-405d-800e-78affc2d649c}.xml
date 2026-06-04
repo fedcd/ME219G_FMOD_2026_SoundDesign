@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{766b3957-7483-405d-800e-78affc2d649c}">
+		<property name="note">
+			<value>Här har vi logiken som skiljer om ljudet är inomhus eller utomhus. Outside följer logiken av 0= utomhus och inside följer logiken av 1 = inne i en cave. Detta sker genom att magnet regionsen som befinner sig över våra ambiance ljud pekar på 2 olika labels. "Outside" pekar på outside och "Inside" pekar på inside. Inside har dock ett snapshot event som heter "cave_snapshot" i samband. Detta för att få till reverb som får sfx att låta som en grotta påriktigt.  </value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

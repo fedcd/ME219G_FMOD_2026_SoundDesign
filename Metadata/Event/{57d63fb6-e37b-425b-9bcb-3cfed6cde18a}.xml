@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{57d63fb6-e37b-425b-9bcb-3cfed6cde18a}">
+		<property name="note">
+			<value>Ett 3D oneshot ljud som spelas när bossen skjuter ut lightning.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>

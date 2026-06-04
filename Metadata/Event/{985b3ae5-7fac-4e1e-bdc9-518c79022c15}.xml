@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{985b3ae5-7fac-4e1e-bdc9-518c79022c15}">
+		<property name="note">
+			<value>Ett multi-instrument som randomizer mellan två olika fotstegs-ljud som spelas när bossen går. </value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -76,7 +79,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{298ee42a-64d9-4b7c-badf-0c8627fc0822}">
 		<property name="volume">
-			<value>3</value>
+			<value>-3</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{8050892b-f906-47e8-ae7d-2d1d27e4dea6}</destination>

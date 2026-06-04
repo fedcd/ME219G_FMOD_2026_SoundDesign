@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{70b4ae2d-e4fb-4142-a044-5aeefd2700c2}">
+		<property name="note">
+			<value>Ett simpelt 3D Oneshot ljud som spelas när dörrar öppnas, i samband med att man skjuter på "Door-switch"  </value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

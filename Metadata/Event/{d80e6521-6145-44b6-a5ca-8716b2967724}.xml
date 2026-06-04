@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d80e6521-6145-44b6-a5ca-8716b2967724}">
+		<property name="note">
+			<value>Ett simpelt one-shot ljud som spelas när bossen skickar ut elektrisitet.  </value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -76,7 +79,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{a3bc3d6c-a86f-4735-a25a-858fb8662555}">
 		<property name="volume">
-			<value>0.5</value>
+			<value>-3.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{2cbb9c44-95bd-4b95-bbf2-bd21c2a24213}</destination>

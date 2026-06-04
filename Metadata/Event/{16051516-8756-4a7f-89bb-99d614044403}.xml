@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{16051516-8756-4a7f-89bb-99d614044403}">
+		<property name="note">
+			<value>Ett one-shot ljud som spelas när bossen dör.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>
@@ -75,6 +78,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{89a54506-466c-4f6e-a1a1-29c69935caf1}">
+		<property name="volume">
+			<value>-5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{0f3a17ed-f25a-4b54-8428-f3281558d163}</destination>
 		</relationship>
